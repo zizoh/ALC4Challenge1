@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ALC Phase 1 Challenge</string>
+    <string name="welcome_to_alc">Welcome to ALC 4.0</string>
+    <string name="about_alc">About ALC</string>
+    <string name="my_profile">My Profile</string>
+    <string name="no_internet">Check your internet connection and try again</string>
+    <string name="retry">Retry</string>
+</resources>
